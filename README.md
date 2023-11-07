@@ -22,6 +22,10 @@ There is an .env file in GoPost.
 `CHANNEL_ACCESS_TOKEN`: Enter the Channel access token from the `Messaging API` page.<br>
 `USERID`: Enter the userID from the `Basic settings` page.
 
+# Example
+
+![Output image](Example/Output.png)
+
 # Support and Feedback
 
 If you encounter issues or have questions, please open an issue.
