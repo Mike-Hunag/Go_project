@@ -10,7 +10,7 @@ This is a pratice with Python and Golang. When I'm off work, I can receive relev
 
 # Usage
 
-python push_msg.py
+python push_msg.py<br>
 If you need push mesage to Line bot in your train.py, you can call `from push_msg import push_msg` and pass the relevant parameters to push_msg.
 
 # Configuration
