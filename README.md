@@ -26,3 +26,6 @@ There is an .env file in GoPost.
 
 If you encounter issues or have questions, please open an issue.
 For general feedback or contact, you can reach out to main668888@gmail.com.
+
+# Reference
+https://blog.epoch.tw/2020/11/%E4%BD%BF%E7%94%A8-Go-%E5%BB%BA%E7%AB%8B-LINE-Bot-%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA/
