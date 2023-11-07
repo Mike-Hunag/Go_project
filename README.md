@@ -18,8 +18,8 @@ If you need push mesage to Line bot in your train.py, you can call `from push_ms
 
 There is a .env in GoPost.
 
-`CHANNEL_SECRET`: Enter the Channel secret from the `Basic settings` page.
-`CHANNEL_ACCESS_TOKEN`: Enter the Channel access token from the `Messaging API` page.
+`CHANNEL_SECRET`: Enter the Channel secret from the `Basic settings` page.<br>
+`CHANNEL_ACCESS_TOKEN`: Enter the Channel access token from the `Messaging API` page.<br>
 `USERID`: Enter the userID from the `Basic settings` page.
 
 # Support and Feedback
