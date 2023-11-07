@@ -16,7 +16,7 @@ If you need push mesage to Line bot in your train.py, you can call `from push_ms
 
 # Configuration
 
-There is a .env in GoPost.
+There is an .env file in GoPost.
 
 `CHANNEL_SECRET`: Enter the Channel secret from the `Basic settings` page.<br>
 `CHANNEL_ACCESS_TOKEN`: Enter the Channel access token from the `Messaging API` page.<br>
